@@ -12,6 +12,9 @@ Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years as a
 
 
 ## Tools and tricks of the trade
+### Custom tooling
+~WIP~
+[Practial web scraping with dev tools](https://gist.github.com/silentpatrik/d49ad3fe94630bd02eb80ebc89be7033.js)
 _____________________________
 ### Programming, Libraries and development tools
 **PHP** <img alt="php" valign="bottom" height="32px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />  **|** 
