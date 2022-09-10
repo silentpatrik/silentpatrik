@@ -1,7 +1,7 @@
 # ✨ Patrik Grinsvall ✨
 
 ## About
-Developer, Freelancer and owner of Silent Ridge Media. Celebrating 30 years as a programmer.
+Developer, Freelancer and almost always looking for an oppertunity.
 
 ## Contact and references
 -  <a href="https://www.linkedin.com/in/patrikgrinsvall/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />**LINKEDIN**</a>
