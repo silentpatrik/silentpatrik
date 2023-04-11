@@ -4,6 +4,7 @@
 Developer, Freelancer and almost always looking for an oppertunity.
 
 ## Contact and references
+- <a href="https://codepen.io/silentpatrik/"><img align="left" alt="Codepen" width="100px" src="https://www.vectorlogo.zone/logos/codepen/codepen-official.svg">**Codepen**</a>
 -  <a href="https://www.linkedin.com/in/patrikgrinsvall/"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />**LINKEDIN**</a>
 -  <a href="patrik@silentridge.io"><img align="left" alt="'Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />**MAIL**</a>
 -  <a href="https://www.upwork.com/freelancers/patrikgrinsvall3"><img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" />**UPWORK PROFILE**</a>
